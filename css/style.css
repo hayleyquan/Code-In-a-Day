@@ -1,0 +1,15 @@
+body {
+    background: #993955;
+}
+
+h1 {
+    color: #592131;
+    background-color: #FFD1C4;
+    text-align: right;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background: blue;
+    }
+}
